@@ -6,3 +6,5 @@
 Covers weaknesses related to the creation, management, and termination of user sessions. Flaws in this category often involve insecure session identifiers, improper handling of authentication tokens, missing session expiration, or failure to protect session data against hijacking or fixation attacks.
 
 --- Storing Credentials With 'Remember Me' Functionality --- AUTHN'den geldi. SESSION için çalışma yapılmadı ama AUTHN'den silineceği için buraya not alındı.
+--- CSRF de buraya gelecek ---
+--- Cookie diye bir kategori olup cookie ile ilgili zafiyetler altında toplanacak ---
