@@ -5,3 +5,6 @@
 
 Cryptography Misuse is about improper use, configuration or implementation of cryptographic mechanisms. It is critical, because in some cases our privacy and security are based on cryptography. We can explain that with an example: We rely on cryptography to secure communication channels. If we use outdated cipher suites (like CBC in TLS 1.2), or disable certificate validation, our "encrypted" communication becomes vulnerable to attackers. You can look weaknesses, subcategories for details.
 
+
+VULNCAT: https://vulncat.fortify.com/en/weakness?category=Weak+Cryptographic+Signature;Weak+Encryption;Weak+Cryptographic+Implementation;Weak+Cryptographic+Hash;Insecure+Transport;Insecure+SSL;Insecure+Randomness;Encoding+Confusion
+

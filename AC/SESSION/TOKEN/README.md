@@ -1,4 +1,4 @@
-# DATA-CRYPTO-ALGO - Algorithm Weaknesses (C)
+# AC-SESSION-TOKEN - Token Security (C)
 
 ### Related CWE(s):
 ### Related CVE(s): ARAŞTIRILMADI

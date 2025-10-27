@@ -13,3 +13,6 @@ CWE alternatifi olarak düşündüğümüz (CWE'de 1003 View'i var ama o da karm
 ### Genel Sorular (Güncel)
 - 20.09.2025 itibariyle bir yere konamayacağı düşünülen pek bilindik zafiyetler: File Upload Vuln (DATAYA), (SSRF, Open Redirection, LFI, RFI, Path Traversal)=>AC ALTINA ===> BİLİNDİK ZAFİYETLERİ HEP YERLEŞTİRDİK
 - 20.09.2025 itibariyle düşünülen CWE'ler (tabiki daha fazla olabilir ama şimdilik): CWE-184, CWE-357, CWE-602, CWE-1253, CWE-551
+- Bad Practices diye ayrı bir kategori oluşturulabilir ama diğerleriyle çakışır mı?
+- CICD - https://owasp.org/www-project-top-10-ci-cd-security-risks/ - DEP DE BURANIN ALTINA TAŞIABİLİR Mİ?
+- Mass Assignment nereye koyulacak?
