@@ -2,3 +2,5 @@
 
 ### Related CWE(s):
 ### Related CVE(s): ARAŞTIRILMADI
+
+Mass Assignment'ı bunun altında ele al!

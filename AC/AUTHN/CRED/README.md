@@ -1,4 +1,4 @@
-# AC-AUTHN-CRED - Insufficiently Protected Credentials (C)
+# AC-AUTHN-CRED - Insufficiently Protected or Default Credentials (C)
 
 ### Related CWE(s):
 ### Related CVE(s): ARAŞTIRILMADI
