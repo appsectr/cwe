@@ -1,4 +1,4 @@
-# MEMORY-INSPECTION - Memory Inspection (W)
+# MEM-INSPECTION - Memory Inspection (W)
 
 ### Related CWE(s):
 ### Related CVE(s): ARAŞTIRILMADI
